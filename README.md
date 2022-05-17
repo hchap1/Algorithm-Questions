@@ -19,3 +19,21 @@ E.g.
 100101011
 
 A: island_question.py
+
+The age array question:
+
+An array containing the age of every Australian is made.
+
+E.g. 1,1,1,1,1,2,2,2,2,2,2,4,4,4,4,4,4.
+
+Q: What's the most effecient way to get each unique age?
+
+A: age_array.py
+
+The web log question:
+
+Q: Whats the most efficient way to get the most common transition between web pages? (Fields for each log are name, timestamp, website).
+
+A: web_log.py.
+
+If you have any questions, read the answer code.
